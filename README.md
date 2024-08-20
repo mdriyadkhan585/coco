@@ -5,7 +5,7 @@
 
 # **Coco Programming Language**
 
-![Coco Logo](./static/logo.svg) 
+![Coco Logo](logo.svg) 
 
 
 
