@@ -56,17 +56,17 @@ After submitting a pull request, it will be reviewed by our maintainers. They ma
 
 ### **4. Testing**
 
-Before submitting a pull request, ensure that your changes are thoroughly tested. We use [unit tests](tests/) and [benchmarking tools](benchmarking/) to verify the functionality and performance of Coco.
+Before submitting a pull request, ensure that your changes are thoroughly tested. We use [no unit tests](tests/) and [no benchmarking tools](benchmarking/) to verify the functionality and performance of Coco.
 
 ### **5. Documentation**
 
-If you are adding new features or making changes that affect the usage of Coco, please update the documentation accordingly. Documentation is located in the [docs](docs/) directory.
+If you are adding new features or making changes that affect the usage of Coco, please update the documentation accordingly. Documentation is located in the [docs](index.html) directory.
 
 ## **Contribution Guidelines**
 
 ### **1. Code Style**
 
-- Follow the coding style guidelines outlined in our [Coding Standards](docs/coding-standards.md).
+- Follow the coding style guidelines outlined in our [Coding Standards](coding-standards.md).
 - Use descriptive variable and function names.
 - Write clear and concise commit messages.
 
@@ -77,7 +77,7 @@ If you are adding new features or making changes that affect the usage of Coco, 
 
 ### **3. Communication**
 
-- Join our [No community forums Fake](https://community.rkstudio.example.com) or [Discord server example](https://discord.gg/example) for discussions and support.
+- Join our [No community forums Fake](https://community.rkstudio.example.com) or [no Discord server example](https://discord.gg/example) for discussions and support.
 - Be respectful and considerate when interacting with other contributors and community members.
 
 ## **Code of Conduct**
