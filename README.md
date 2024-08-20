@@ -374,17 +374,17 @@ A: Coco combines the speed and performance of C/C++ with the ease of use and saf
 A: You can seek help by:
 - Opening an issue on our [GitHub repository](https://github.com/mdriyadkhan585/coco/issues).
 - Joining our community forums or Discord server.
-- Consulting the [Coco Documentation](docs/index.md) for troubleshooting tips.
+- Consulting the [Coco Documentation](index.md) for troubleshooting tips.
 
 **Q: Is Coco suitable for large-scale applications?**
 A: Absolutely. Coco’s performance optimizations and concurrency features make it well-suited for large-scale applications, including systems programming, web development, and more.
 
 **Q: Where can I learn more about Coco?**
-A: You can explore our [Documentation](docs/index.md), follow tutorials, and participate in community discussions to deepen your knowledge of Coco.
+A: You can explore our [Documentation](index.md), follow tutorials, and participate in community discussions to deepen your knowledge of Coco.
 
 ## **Documentation**
 
-For a comprehensive guide on Coco’s features, syntax, and best practices, visit our [Documentation](docs/index.md). It includes detailed explanations, advanced usage tips, and examples to help you get the most out of Coco.
+For a comprehensive guide on Coco’s features, syntax, and best practices, visit our [Documentation](index.md). It includes detailed explanations, advanced usage tips, and examples to help you get the most out of Coco.
 
 ## **License**
 
