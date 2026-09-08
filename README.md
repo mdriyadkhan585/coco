@@ -1,9 +1,9 @@
 <p align="center">
   <!-- Theme-matched logo (Coco brand accent: #e85d2a / orange) -->
-  <img src="logo/ryro-logo-orange-bg-removed.png" alt="Coco logo" width="180" />
+  <img src="https://github.com/kirn-lang/kirn-lang.github.io/blob/main/kirn-logos/kirn-icon.png" alt="Kirn logo" width="180" />
 </p>
 
-<h1 align="center">Coco Programming Language</h1>
+<h1 align="center">Kirn Programming Language</h1>
 
 <p align="center">
   <em>A modern, expressive, and fast general-purpose programming language</em>
